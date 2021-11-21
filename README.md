@@ -2,4 +2,4 @@
 
 This is my first Salesforece repository branch
 
-This line is added under the new-branch-1 branch to create a conflict
+This is changes in branch-2
